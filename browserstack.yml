@@ -1,0 +1,17 @@
+userName: {{username}}
+accessKey: {{access_key}}
+framework: robot
+app: bs://5686292c1be56cbd51224128cc0bbc9734077e07
+platforms:
+  - deviceName: iPhone 14 Pro
+    osVersion: 16
+    platformName: ios
+  - deviceName: iPhone 13 Pro
+    osVersion: 15
+    platformName: ios
+  - deviceName: iPhone XS
+    osVersion: 14
+    platformName: ios
+browserstackLocal: true
+buildName: company-ios-build
+projectName: app-company-tests
